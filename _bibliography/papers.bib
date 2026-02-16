@@ -9,7 +9,8 @@
   abbr         = {ICLR2026},
   selected     = {true},
   preview      = {probing.png},
-  openreview   = {https://openreview.net/forum?id=1JZuEDq62},
+  abstract     = "Rotary Position Embeddings (RoPE) are widely used in Transformers to encode positional information in token representations, yet the internal frequency structure of RoPE remains poorly understood. Previous studies have reported conflicting findings on the roles of high- and low-frequency dimensions, offering empirical observations but no unifying explanation. In this paper, we present a systematic framework that bridges these disparate results. We introduce Frequency Entropy (FE), a metric that quantifies the effective utilization of each RoPE frequency dimension, and we provide an analysis of how RoPE’s sinusoidal components contribute to model representations on a per-dimension basis. Based on an analysis of the Llama-4 model, which incorporates both RoPE and NoPE layers, we find that the periodicity captured by FE appears in RoPE layers but not in NoPE layers. Furthermore, FE identifies dimensions in which energy concentrates under RoPE. These characteristics are observed across the spectrum rather than being confined to specific dimensions. Moreover, attenuating extreme-entropy dimensions at inference yields downstream accuracy that is statistically indistinguishable from the baseline, with modest perplexity improvements on average, suggesting that such dimensions are often redundant. Overall, FE provides a simple, general diagnostic for RoPE with implications for analysis and design.",
+  openreview   = "https://openreview.net/forum?id=1JZuEDq62",
   dimensions   = {true}
 }
 
@@ -20,7 +21,13 @@
   year         = {2026},
   abbr         = {ICLR2026},
   preview      = {sin.png},
-  openreview   = {https://openreview.net/forum?id=PR1PPxvG9Q},
+  abstract     = "Rotary Position Embeddings (RoPE) are widely adopted in LLMs, and it is commonly believed that larger base frequencies 
+ yield better long-context performance. In this paper, we show that a high-norm RoPE dimension, referred to as the “frequency band,” consistently emerges across multiple models, and we focus on this band to reveal the trade-offs inherent in RoPE. We find that replacing the RoPE dimensions below the frequency band with NoPE during inference has little effect on performance, indicating that these lower-frequency dimensions are only weakly utilized. We further find that the location of the frequency band depends on the RoPE base 
+ and the training sequence length. Moreover, the band forms early during pre-training and persists even after context extension via position interpolation. Notably, we show that aligning 
+ with the training length shifts the band toward lower frequencies and improves extrapolation, whereas increasing 
+ enhances interpolation but reduces extrapolation, revealing a clear trade-off between interpolation and extrapolation. We believe this work is a step toward a sharper understanding of positional embeddings in LLMs, with falsifiable diagnostics and practical guidance for choosing 
+ that support scaling to longer contexts."
+  openreview   = "https://openreview.net/forum?id=PR1PPxvG9Q",
   dimensions   = {true}
 }
 
@@ -31,7 +38,8 @@
   year         = {2025},
   abbr         = {ICLR2025},
   preview      = {wavelet.png},
-  openreview   = {https://openreview.net/forum?id=OhauMUNW8T},
+  abstract     = "In the realm of large-scale language models, a significant challenge arises when extrapolating sequences beyond the maximum allowable length. This is because the model's position embedding mechanisms are limited to positions encountered during training, thus preventing effective representation of positions in longer sequences. We analyzed conventional position encoding methods for long contexts and found the following characteristics. (1) When the representation dimension is regarded as the time axis, Rotary Position Embedding (RoPE) can be interpreted as a restricted wavelet transform using Haar-like wavelets. However, because it uses only a fixed scale parameter, it does not fully exploit the advantages of wavelet transforms, which capture the fine movements of non-stationary signals using multiple scales (window sizes). This limitation could explain why RoPE performs poorly in extrapolation. (2) Previous research as well as our own analysis indicates that Attention with Linear Biases (ALiBi) functions similarly to windowed attention, using windows of varying sizes. However, it has limitations in capturing deep dependencies because it restricts the receptive field of the model. From these insights, we propose a new position representation method that captures multiple scales (i.e., window sizes) by leveraging wavelet transforms without limiting the model's attention field. Experimental results show that this new method improves the performance of the model in both short and long contexts. In particular, our method allows extrapolation of position information without limiting the model's attention field."
+  openreview   = "https://openreview.net/forum?id=OhauMUNW8T",
   selected     = {true},
   dimensions   = {true}
 }
@@ -43,7 +51,8 @@
   year         = {2023},
   abbr         = {EMNLP2023 Findings},
   preview      = {implicit.png},
-  openreview   = {https://aclanthology.org/2023.findings-emnlp.487/},
+  abstract     = "Implicit Discourse Relation Recognition (IDRR) involves identifying the sense label of an implicit connective between adjacent text spans. This has traditionally been approached as a classification task. However, some downstream tasks require more than just a sense label as well as the specific connective used. This paper presents Implicit Sense-labeled Connective Recognition (ISCR), which identifies the implicit connectives and their sense labels between adjacent text spans. ISCR can be treated as a classification task, but a large number of potential categories, sense labels, and uneven distribution of instances among them make this difficult. Instead, this paper handles the task as a text-generation task, using an encoder-decoder model to generate both connectives and their sense labels. Here, we explore a classification method and three kinds of text-generation methods. From our evaluation results on PDTB-3.0, we found that our method outperforms the conventional classification-based method.",  
+  anthology    = "https://aclanthology.org/2023.findings-emnlp.487/",
   dimensions   = {true}
 }
 
