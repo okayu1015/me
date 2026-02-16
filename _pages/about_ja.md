@@ -28,21 +28,25 @@ profile:
 #### 略歴
 2024年10月–現在 東北大学大学院 情報科学研究科 博士後期課程  
 
-2024年7月–現在 NTT株式会社 人間情報研究所
+2024年 7月–現在 NTT株式会社 人間情報研究所
 
-2021年4月–2024年6月 日本電信電話株式会社 コミュニケーション科学基礎研究所
+2021年 4月–2024年6月 日本電信電話株式会社 コミュニケーション科学基礎研究所
 
-2019年4月-2021年3月 奈良先端科学技術大学院大学 修士（工学）
+2019年 4月–2021年3月 奈良先端科学技術大学院大学 修士（工学）
 
 #### 受賞
-- **優秀賞**（言語処理学会 第31回年次大会, 2025年3月）
+- **優秀賞**　(言語処理学会 第31回年次大会, 2025年3月)
 
   岡佑依, 長谷川拓, 西田京介, 齋藤邦子「ウェーブレット位置符号化」
 
-- **若手奨励賞**（言語処理学会 第29回年次大会, 2023年3月）
+- **若手奨励賞** (言語処理学会 第29回年次大会, 2023年3月)
 
   岡佑依, 田中貴秋, 平尾努, 永田昌明「球体表面を利用した位置符号化」(*主著のみの受賞)
 
+- **Best Student Paper** (24th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA 2021))
+
+  Ryo Fukuda, Sashi Novitasari, Yui Oka, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura 「Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS」
+  
 #### 講演
 
 - [Wavelet-based Positional Representation for Long Context](https://nlp-colloquium-jp.github.io/schedule/2025-04-16_yui-oka/), NLPコロキウム（2025年4月16日）
