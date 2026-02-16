@@ -5,8 +5,8 @@ permalink: /ja/
 nav: true
 nav_order: 1
 subtitle: |
-岡 佑依 / 若染 佑依 <br>
   <div style="font-size: 0.9rem;">
+    岡 佑依 / 若染 佑依 <br>
     <a href="mailto:your_email@example.com">📧 Email</a> / 
     <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ">🎓 Google Scholar</a> / 
     <a href="https://openreview.net/profile?id=%7EYui_Oka1">📕 OpenReview</a> / 
@@ -32,7 +32,6 @@ profile:
 2021年4月–2024年6月 日本電信電話株式会社 コミュニケーション科学基礎研究所
 2019年4月-2021年3月 奈良先端科学技術大学院大学 修士（工学）
 
----
 #### 受賞
 - 優秀賞（言語処理学会 第31回年次大会, 2025年3月）
 
