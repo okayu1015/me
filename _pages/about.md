@@ -2,17 +2,17 @@
 layout: about
 title: about
 permalink: /
-subtitle: Researcher at NTT / Ph.D. Student at Tohoku University
+subtitle: |
+  <div style="font-size: 0.9rem;">
+    <a href="mailto:your_email@example.com">📧 Email</a><br>
+    <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ">🎓 Google Scholar</a><br>
+    <a href="/assets/pdf/example_pdf.pdf">📄 CV</a>
+  </div>
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div style="font-size: 0.9rem;">
-    <a href="mailto:your_email@example.com">📧 Email</a><br>
-    <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ">🎓 Google Scholar</a><br>
-    <a href="/assets/pdf/example_pdf.pdf">📄 CV</a>
-    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
