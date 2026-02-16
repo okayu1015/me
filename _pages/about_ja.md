@@ -1,10 +1,8 @@
 ---
 layout: page
-title: about(ja)
+title: about(ja_tmp)
 nav: true
 nav_order: 1
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 岡 佑依 / 若染 佑依
 I am a Researcher at [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/), [NTT Corporation](https://group.ntt/en/), and a second-year Ph.D. student at the [Language and Information Science Laboratory, Tohoku University](https://www.is.tohoku.ac.jp/en/laboratory/list_dept/c01.html), a member lab of the [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/).
