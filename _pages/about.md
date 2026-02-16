@@ -16,16 +16,6 @@ profile:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 I am a Researcher at [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/), [NTT Corporation](https://group.ntt/en/), and a second-year Ph.D. student at the [Language and Information Science Laboratory, Tohoku University](https://www.is.tohoku.ac.jp/en/laboratory/list_dept/c01.html), a member lab of the [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/).
 
