@@ -22,3 +22,17 @@ I received my Master of Engineering degree from the [Nara Institute of Science a
 At NTT, I conduct research in Natural Language Processing, focusing on positional encoding and long-context modeling in large language models (LLMs). I also apply these theoretical insights to the development of context extension techniques for LLMs.
 
 In recent years, I have drawn on signal processing perspectives to investigate the redesign of positional representations grounded in frequency analysis and wavelet theory.
+
+#### Biography
+
+**Oct 2024 – Present**  
+Ph.D. Student, Graduate School of Information Sciences, Tohoku University
+
+**Jul 2024 – Present**  
+Researcher, NTT Human Informatics Laboratories, NTT Corporation
+
+**Apr 2021 – Jun 2024**  
+Researcher, NTT Communication Science Laboratories, Nippon Telegraph and Telephone Corporation (NTT)
+
+**Apr 2019 – Mar 2021**  
+Master of Engineering, Nara Institute of Science and Technology (NAIST)
