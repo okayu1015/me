@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: about(ja_tmp)
 nav: true
 nav_order: 1
