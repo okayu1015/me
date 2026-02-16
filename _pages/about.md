@@ -20,3 +20,5 @@ I am a Researcher at [NTT Human Informatics Laboratories](https://www.rd.ntt/e/h
 
 I received my Master of Engineering degree from the [Nara Institute of Science and Technology (NAIST)](https://www.naist.jp/en/) in 2021. I was a member of the [Augmented Human Communication Laboratory (AHC Lab)](http://ahclab.naist.jp/en/) and was supervised by [Prof. Satoshi Nakamura](https://sai.cuhk.edu.cn/en/teacher/104). My master’s research focused on neural machine translation and positional encoding.
 At NTT, I conduct research in Natural Language Processing, focusing on positional encoding and long-context modeling in large language models (LLMs). I also apply these theoretical insights to the development of context extension techniques for LLMs.
+
+In recent years, I have drawn on signal processing perspectives to investigate the redesign of positional representations grounded in frequency analysis and wavelet theory.
