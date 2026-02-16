@@ -4,18 +4,6 @@ title: about(ja_tmp)
 permalink: /ja_tmp/
 nav: true
 nav_order: 1
-subtitle: |
-  <div style="font-size: 0.9rem;">
-    <a href="mailto:your_email@example.com">📧 Email</a> / 
-    <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ">🎓 Google Scholar</a> / 
-    <a href="https://openreview.net/profile?id=%7EYui_Oka1">📕 OpenReview</a> / 
-    <a href="/assets/pdf/example_pdf.pdf">📄 CV</a>
-  </div>
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
 ---
 岡 佑依 / 若染 佑依
 I am a Researcher at [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/), [NTT Corporation](https://group.ntt/en/), and a second-year Ph.D. student at the [Language and Information Science Laboratory, Tohoku University](https://www.is.tohoku.ac.jp/en/laboratory/list_dept/c01.html), a member lab of the [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/).
