@@ -6,6 +6,7 @@ subtitle: |
   <div style="font-size: 0.9rem;">
     <a href="mailto:your_email@example.com">📧 Email</a> / 
     <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ">🎓 Google Scholar</a> / 
+    <a href="https://openreview.net/profile?id=%7EYui_Oka1">📕 OpenReview</a> / 
     <a href="/assets/pdf/example_pdf.pdf">📄 CV</a>
   </div>
 profile:
