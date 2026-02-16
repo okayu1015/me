@@ -2,7 +2,7 @@
 layout: page
 title: about(ja)
 nav: true
-nav_order: 2
+nav_order: 1
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
