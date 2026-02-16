@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about(ja_tmp)
+permalink: /ja_tmp/
 nav: true
 nav_order: 1
 subtitle: |
