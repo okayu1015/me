@@ -16,12 +16,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 岡 佑依 / 若染 佑依
 
 日本電信電話株式会社 [人間情報研究所](https://www.rd.ntt/hil/) 所属 / 
-東北大学([Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/)) 博士後期課程2年
+[東北大学](https://www.nlp.ecei.tohoku.ac.jp/) 博士後期課程2年
 
 
 #### 職歴
