@@ -4,8 +4,8 @@ title: about
 permalink: /
 subtitle: |
   <div style="font-size: 0.9rem;">
-    <a href="mailto:your_email@example.com">📧 Email</a><br>
-    <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ">🎓 Google Scholar</a><br>
+    <a href="mailto:your_email@example.com">📧 Email</a> / 
+    <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ">🎓 Google Scholar</a> / 
     <a href="/assets/pdf/example_pdf.pdf">📄 CV</a>
   </div>
 profile:
