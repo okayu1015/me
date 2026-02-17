@@ -60,7 +60,7 @@ COLING 2020.
 #### Biography
 - **Oct 2024 – Present** : Ph.D. Student, Graduate School of Information Sciences, Tohoku University
 - **Jul 2024 – Present** : Researcher, NTT Human Informatics Laboratories, NTT Corporation
-- **Apr 2021 – Jun 2024** : Researcher, NTT Communication Science Laboratories, Nippon Telegraph and Telephone Corporation (NTT)
+- **Apr 2021 – Jun 2024** : Researcher, NTT Communication Science Laboratories, NTT Corporation
 - **Apr 2019 – Mar 2021** : Master of Engineering, Nara Institute of Science and Technology (NAIST)
 
 #### Reviewer
