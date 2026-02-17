@@ -23,6 +23,10 @@ At NTT, I conduct research in Natural Language Processing, focusing on positiona
 
 In recent years, I have drawn on signal processing perspectives to investigate the redesign of positional representations grounded in frequency analysis and wavelet theory.
 
+#### Selected Publications
+
+{% bibliography --query @*[selected=true] %}
+
 #### Reviewer
 ICML2026, ICLR2026, ICLR2025, ARR
 
