@@ -22,7 +22,23 @@ In recent years, I have drawn on signal processing perspectives to investigate t
 
 #### Selected Publications
 
-{% bibliography @*[selected=true] %}
+**Probing Rotary Position Embeddings through Frequency Entropy**
+
+{Yui Oka}*, Kentaro Hanafusa*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (* Equal contribution)
+
+The Fourteenth International Conference on Learning Representations (ICLR 2026)
+
+**How Base Frequency Shapes RoPE: An Analytical Study of Frequency-Band Formation**
+
+{Yui Oka}, Itsumi Saito, Kyosuke Nishida, Kuniko Saito
+
+The Fourteenth International Conference on Learning Representations (ICLR 2026)
+
+**Wavelet-based Positional Representation for Long Context**
+
+{Yui Oka}, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito
+
+In The Thirteenth International Conference on Learning Representations (ICLR 2025)
 
 #### Reviewer
 ICML2026, ICLR2026, ICLR2025, ARR
