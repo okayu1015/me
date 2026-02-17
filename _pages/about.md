@@ -25,7 +25,7 @@ In recent years, I have drawn on signal processing perspectives to investigate t
 
 #### Selected Publications
 
-{% bibliography --query @*[selected=true] %}
+{% bibliography @*[selected=true] %}
 
 #### Reviewer
 ICML2026, ICLR2026, ICLR2025, ARR
