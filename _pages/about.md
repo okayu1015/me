@@ -23,29 +23,6 @@ At NTT, I conduct research in Natural Language Processing, focusing on positiona
 
 In recent years, I have drawn on signal processing perspectives to investigate the redesign of positional representations grounded in frequency analysis and wavelet theory.
 
-#### Publications
-
-- Probing Rotary Position Embeddings through Frequency Entropy
-  
-  **Yui Oka**, Kentaro Hanafusa, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito
-  
-  The Fourteenth International Conference on Learning Representations (ICLR 2026)
-  
-  [[Openreview]([http://ahclab.naist.jp/en/](https://openreview.net/forum?id=1JZuEDq62N))]
-
-  
-- How Base Frequency Shapes RoPE: An Analytical Study of Frequency-Band Formation
-  
-  **Yui Oka**, Itsumi Saito, Kyosuke Nishida, Kuniko Saito
-  
-  The Fourteenth International Conference on Learning Representations (ICLR 2026)
-
-- Wavelet-based Positional Representation for Long Context
-  
-  **Yui Oka**, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito
-  
-  The Thirteenth International Conference on Learning Representations (ICLR 2025)
-
 #### Reviewer
 ICML2026, ICLR2026, ICLR2025, ARR
 
