@@ -20,28 +20,43 @@ At NTT, I conduct research in Natural Language Processing, focusing on positiona
 
 In recent years, I have drawn on signal processing perspectives to investigate the redesign of positional representations grounded in frequency analysis and wavelet theory.
 
-#### Selected Publications
-
-**Probing Rotary Position Embeddings through Frequency Entropy**
-
-{Yui Oka}*, Kentaro Hanafusa*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (* Equal contribution)
-
-The Fourteenth International Conference on Learning Representations (ICLR 2026)
-
-**How Base Frequency Shapes RoPE: An Analytical Study of Frequency-Band Formation**
-
-{Yui Oka}, Itsumi Saito, Kyosuke Nishida, Kuniko Saito
-
-The Fourteenth International Conference on Learning Representations (ICLR 2026)
-
-**Wavelet-based Positional Representation for Long Context**
-
-{Yui Oka}, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito
-
-In The Thirteenth International Conference on Learning Representations (ICLR 2025)
+#### Publications
+- **Yui Oka***, Kentaro Hanafusa*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (* Equal contribution).
+"Probing Rotary Position Embeddings through Frequency Entropy."
+ICLR 2026. [Openreview](https://openreview.net/forum?id=1JZuEDq62N)
+- **Yui Oka**, Itsumi Saito, Kyosuke Nishida, Kuniko Saito.
+"How Base Frequency Shapes RoPE: An Analytical Study of Frequency-Band Formation."
+ICLR 2026. [Openreview](https://openreview.net/forum?id=PR1PPxvG9Q)
+- **Yui Oka**, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito.
+"Wavelet-based Positional Representation for Long Context."
+ICLR 2025. [Openreview](https://openreview.net/forum?id=OhauMUNW8T)
+- **Yui Oka**, Tsutomu Hirao.
+"Implicit Sense-labeled Connective Recognition as Text Generation."
+EMNLP Findings 2023.
+[ACL Anthology](https://aclanthology.org/2023.findings-emnlp.487/)
+- Makoto Morishita*, Keito Kudo*, **Yui Oka***, Katsuki Chousa*, Shun Kiyono, Sho Takase, Jun Suzuki (* Equal contribution).
+"NT5 at WMT 2022 General Translation Task."
+WMT 2022.
+[ACL Anthology](https://aclanthology.org/2022.wmt-1.25/)
+- Ryo Fukuda, Sashi Novitasari, **Yui Oka**, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura.
+"Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS."
+O-COCOSDA 2021.
+[Paper](https://ieeexplore.ieee.org/document/9660477) *Best Student Paper Award
+- Ryo Fukuda, **Yui Oka**, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura.
+"NAIST English-to-Japanese Simultaneous Translation System for IWSLT 2021 Simultaneous Text-to-text Task."
+IWSLT 2021.
+[ACL Anthology](https://aclanthology.org/2021.iwslt-1.3/)
+- **Yui Oka**, Katsuhito Sudoh, Satoshi Nakamura.
+"Using Perturbed Length-aware Positional Encoding for Non-autoregressive Neural Machine Translation."
+ACL-IJCNLP SRW 2021.
+[Arxiv](https://arxiv.org/abs/2107.13689)
+- **Yui Oka**, Katsuki Chousa, Katsuhito Sudoh, Satoshi Nakamura.
+"Incorporating Noisy Length Constraints into Transformer with Length-aware Positional Encodings."
+COLING 2020.
+[ACL Anthology](https://aclanthology.org/2020.coling-main.319/)
 
 #### Reviewer
-ICML2026, ICLR2026, ICLR2025, ARR
+ICML2026, ICLR2026, ICLR2025, ACL Rolling Review (2024-present)
 
 #### Biography
 **Oct 2024 – Present**  
