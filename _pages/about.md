@@ -8,6 +8,14 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 ---
+
+<style>
+.profile img {
+  display: block !important;
+  margin: 0 auto !important;
+}
+</style>
+
 📧 [Email](mailto:your_email@example.com) / 
 🎓 [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ) / 
 📕 [OpenReview](https://openreview.net/profile?id=%7EYui_Oka1) / 
