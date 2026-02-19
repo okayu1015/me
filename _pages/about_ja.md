@@ -10,11 +10,17 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
 ---
+<style>
+.profile img {
+  display: block !important;
+  margin: 0 auto !important;
+}
+</style>
 岡 佑依 / 若染 佑依 
 
 📧 [Email](mailto:your_email@example.com) / 
 🎓 [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ) / 
-📕 [OpenReview](https://openreview.net/profile?id=%7EYui_Oka1) / 
+📕 [OpenReview](https://openreview.net/profile?id=%7EYui_Oka1) 
 
 日本電信電話株式会社 [人間情報研究所](https://www.rd.ntt/hil/) 所属 / 
 [東北大学](https://www.nlp.ecei.tohoku.ac.jp/) 博士後期課程2年
