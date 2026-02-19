@@ -31,7 +31,7 @@ profile:
 1. <u>Yui Oka</u>, Katsuhito Sudoh, Satoshi Nakamura. "**Length-constrained Neural Machine Translation using Length Prediction and Perturbation into Length-aware Positional Encoding.**" Journal of Natural Language Processing, 2021. [[paper](https://www.jstage.jst.go.jp/article/jnlp/28/3/28_778/_pdf)]
 
 #### 国際会議/ワークショップ
-1. <u>Yui Oka</u>, Kentaro Hanafusa, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito.
+1. <u>Yui Oka</u>\*, Kentaro Hanafusa\*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito. (\* equal contribution)
 "**Probing Rotary Position Embeddings through Frequency Entropy.**"
 ICLR 2026. [[Openreview](https://openreview.net/forum?id=1JZuEDq62N)]
 1. <u>Yui Oka</u>, Itsumi Saito, Kyosuke Nishida, Kuniko Saito.
@@ -44,14 +44,14 @@ ICLR 2025. [[Openreview](https://openreview.net/forum?id=OhauMUNW8T)][[Arxiv](ht
 "**Implicit Sense-labeled Connective Recognition as Text Generation.**"
 EMNLP Findings 2023.
 [[ACL Anthology](https://aclanthology.org/2023.findings-emnlp.487/)]
-1. Makoto Morishita*, Keito Kudo*, <u>Yui Oka</u>, Katsuki Chousa*, Shun Kiyono, Sho Takase, Jun Suzuki (* Equal contribution).
+1. Makoto Morishita*, Keito Kudo*, <u>Yui Oka</u>, Katsuki Chousa*, Shun Kiyono, Sho Takase, Jun Suzuki (\* Equal contribution).
 "**NT5 at WMT 2022 General Translation Task.**"
 WMT 2022.
 [[ACL Anthology](https://aclanthology.org/2022.wmt-1.25/)]
 1. Ryo Fukuda, Sashi Novitasari, <u>Yui Oka</u>, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura.
 "**Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS.**"
 O-COCOSDA 2021.
-[[Paper](https://ieeexplore.ieee.org/document/9660477)] *Best Student Paper Award
+[[Paper](https://ieeexplore.ieee.org/document/9660477)] <span style="color: red;">Best Student Paper Award</span>
 1. Ryo Fukuda, <u>Yui Oka</u>, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura.
 "**NAIST English-to-Japanese Simultaneous Translation System for IWSLT 2021 Simultaneous Text-to-text Task.**"
 IWSLT 2021.
@@ -69,8 +69,8 @@ COLING 2020.
 1. <u>岡佑依</u>, 花房健太郎, 長谷川拓, 西田京介. "**周波数エントロピーによる位置埋込みの解明**". 言語処理学会第32回年次大会, 2026. [paper]
 1. <u>岡佑依</u>, 斉藤いつみ, 西田京介. "**位置符号化の基底拡大戦略は外挿性能を制限する**". 言語処理学会第32回年次大会, 2026. [paper]
 1. 辻航平, <u>岡佑依</u>, 西田京介, 坂井優介, 上垣外英剛, 渡辺太郎. "**疑似グラフデータ学習によるLLMのグラフ理解能力の向上**". 言語処理学会第32回年次大会, 2026. [paper]
-1. <u>岡佑依</u>, 長谷川拓, 西田京介, 齋藤邦子. "**ウェーブレット位置符号化**". 言語処理学会第31回年次大会, 2025. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-4.pdf)]  *優秀賞受賞*
-1. <u>岡佑依</u>, 田中貴秋, 平尾努, 永田昌明. "**球体表面を利用した位置符号化**". 言語処理学会第29回年次大会, 2023. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P12-4.pdf)]  *若手奨励賞受賞*
+1. <u>岡佑依</u>, 長谷川拓, 西田京介, 齋藤邦子. "**ウェーブレット位置符号化**". 言語処理学会第31回年次大会, 2025. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-4.pdf)]  <span style="color: red;">優秀賞受賞</span>
+1. <u>岡佑依</u>, 田中貴秋, 平尾努, 永田昌明. "**球体表面を利用した位置符号化**". 言語処理学会第29回年次大会, 2023. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P12-4.pdf)]  <span style="color: red;">若手奨励賞受賞</span>
 1. <u>岡佑依</u>, 田中貴秋, 永田昌明. "**英日翻訳のためのPositional Encodingを用いた正則化手法**". 言語処理学会第28回年次大会, 2022. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT1-11.pdf)]
 1. <u>岡佑依</u>, 須藤克仁, 中村哲. "**Positional Encodingへの摂動付与による長さ制御を用いた非自己回帰型機械翻訳のための知識蒸留**". 言語処理学会第27回年次大会, 2021. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P7-7.pdf)]
 1. <u>岡佑依</u>, 帖佐克己, 須藤克仁, 中村哲. "**Positional Encoding出力長制御を用いた英日ニューラル機械翻訳の検討**". 言語処理学会第26回年次大会,2020. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P1-20.pdf)]
@@ -79,9 +79,9 @@ COLING 2020.
 ---
 
 #### 受賞
-- **優秀賞** 岡佑依, 長谷川拓, 西田京介, 齋藤邦子「ウェーブレット位置符号化」(言語処理学会 第31回年次大会, 2025年3月)
-- **若手奨励賞** 岡佑依, 田中貴秋, 平尾努, 永田昌明「球体表面を利用した位置符号化」(*主著のみの受賞)(言語処理学会 第29回年次大会, 2023年3月)
-- **Best Student Paper** Ryo Fukuda, Sashi Novitasari, Yui Oka, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura 「Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS」(O-COCOSDA 2021)
+- **優秀賞** :岡佑依, 長谷川拓, 西田京介, 齋藤邦子「ウェーブレット位置符号化」(言語処理学会 第31回年次大会, 2025年3月)
+- **若手奨励賞** :岡佑依, 田中貴秋, 平尾努, 永田昌明「球体表面を利用した位置符号化」(*主著のみの受賞)(言語処理学会 第29回年次大会, 2023年3月)
+- **Best Student Paper** :Ryo Fukuda, Sashi Novitasari, Yui Oka, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura 「Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS」(O-COCOSDA 2021)
   
 #### 講演
 - [Wavelet-based Positional Representation for Long Context](https://nlp-colloquium-jp.github.io/schedule/2025-04-16_yui-oka/), NLPコロキウム（2025年4月16日）
