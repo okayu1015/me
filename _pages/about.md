@@ -18,8 +18,7 @@ profile:
 
 📧 [Email](mailto:your_email@example.com) / 
 🎓 [Google Scholar](https://scholar.google.com/citations?user=qc6CJjYAAAAJ) / 
-📕 [OpenReview](https://openreview.net/profile?id=%7EYui_Oka1) / 
-📄 [CV](/assets/pdf/example_pdf.pdf)
+📕 [OpenReview](https://openreview.net/profile?id=%7EYui_Oka1) 
 
 I am a Researcher at [NTT Human Informatics Laboratories](https://www.rd.ntt/e/hil/), [NTT Corporation](https://group.ntt/en/), and a second-year Ph.D. student at the [Language and Information Science Laboratory, Tohoku University](https://www.is.tohoku.ac.jp/en/laboratory/list_dept/c01.html), a member lab of the [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/).
 
