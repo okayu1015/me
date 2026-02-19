@@ -31,7 +31,7 @@ profile:
 1. <u>Yui Oka</u>, Katsuhito Sudoh, Satoshi Nakamura. "**Length-constrained Neural Machine Translation using Length Prediction and Perturbation into Length-aware Positional Encoding.**" Journal of Natural Language Processing, 2021. [[paper](https://www.jstage.jst.go.jp/article/jnlp/28/3/28_778/_pdf)]
 
 #### 国際会議/ワークショップ
-1. <u>Yui Oka</u>\*, Kentaro Hanafusa\*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito. (\* equal contribution)
+1. <u>Yui Oka</u>\*, Kentaro Hanafusa\*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (\* Equal contribution). 
 "**Probing Rotary Position Embeddings through Frequency Entropy.**"
 ICLR 2026. [[Openreview](https://openreview.net/forum?id=1JZuEDq62N)]
 1. <u>Yui Oka</u>, Itsumi Saito, Kyosuke Nishida, Kuniko Saito.
@@ -66,7 +66,7 @@ COLING 2020.
 [[ACL Anthology](https://aclanthology.org/2020.coling-main.319/)]
 
 #### 国内学会
-1. <u>岡佑依</u>, 花房健太郎, 長谷川拓, 西田京介. "**周波数エントロピーによる位置埋込みの解明**". 言語処理学会第32回年次大会, 2026. [paper]
+1. <u>岡佑依</u>\*, 花房健太郎\*, 長谷川拓, 西田京介 (\* Equal contribution). "**周波数エントロピーによる位置埋込みの解明**". 言語処理学会第32回年次大会, 2026. [paper]
 1. <u>岡佑依</u>, 斉藤いつみ, 西田京介. "**位置符号化の基底拡大戦略は外挿性能を制限する**". 言語処理学会第32回年次大会, 2026. [paper]
 1. 辻航平, <u>岡佑依</u>, 西田京介, 坂井優介, 上垣外英剛, 渡辺太郎. "**疑似グラフデータ学習によるLLMのグラフ理解能力の向上**". 言語処理学会第32回年次大会, 2026. [paper]
 1. <u>岡佑依</u>, 長谷川拓, 西田京介, 齋藤邦子. "**ウェーブレット位置符号化**". 言語処理学会第31回年次大会, 2025. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-4.pdf)]  <span style="color: red;">優秀賞受賞</span>
