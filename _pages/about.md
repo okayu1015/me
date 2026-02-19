@@ -23,7 +23,7 @@ In recent years, I have drawn on signal processing perspectives to investigate t
 ---
 
 #### Publications
-1. <u>Yui Oka</u>, Kentaro Hanafusa, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito.
+1. <u>Yui Oka</u>\*, Kentaro Hanafusa\*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (\* Equal contribution).
 "**Probing Rotary Position Embeddings through Frequency Entropy.**"
 ICLR 2026. [[Openreview](https://openreview.net/forum?id=1JZuEDq62N)]
 1. <u>Yui Oka</u>, Itsumi Saito, Kyosuke Nishida, Kuniko Saito.
@@ -36,7 +36,7 @@ ICLR 2025. [[Openreview](https://openreview.net/forum?id=OhauMUNW8T)][[Arxiv](ht
 "**Implicit Sense-labeled Connective Recognition as Text Generation.**"
 EMNLP Findings 2023.
 [[ACL Anthology](https://aclanthology.org/2023.findings-emnlp.487/)]
-1. Makoto Morishita*, Keito Kudo*, <u>Yui Oka</u>, Katsuki Chousa*, Shun Kiyono, Sho Takase, Jun Suzuki (* Equal contribution).
+1. Makoto Morishita\*, Keito Kudo\*, <u>Yui Oka</u>\*, Katsuki Chousa\*, Shun Kiyono, Sho Takase, Jun Suzuki (\* Equal contribution).
 "**NT5 at WMT 2022 General Translation Task.**"
 WMT 2022.
 [[ACL Anthology](https://aclanthology.org/2022.wmt-1.25/)]
