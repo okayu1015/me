@@ -92,11 +92,13 @@ COLING 2020.
 - **Best Student Paper** :Ryo Fukuda, Sashi Novitasari, Yui Oka, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura 「Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS」(O-COCOSDA 2021)
   
 #### 講演
+- [Talk for Experience](https://naist-nlp.github.io/breaking-into-top-tier-conferences/), 言語処理学会第32回年次大会（NLP2026）併設ワークショップ「気軽に国際会議を目指しましょう」(2026年3月13日)
 - [Wavelet-based Positional Representation for Long Context](https://nlp-colloquium-jp.github.io/schedule/2025-04-16_yui-oka/), NLPコロキウム（2025年4月16日）
 
 #### 研究成果に関する公式発表・報道
 - [NTTがLLMのコンテキスト長を拡張できる新技術、ウェーブレット関数で位置を表現](https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00169/), 日経Robotics（2025年5月9日）
 - [LLMの追加学習なしで決められた長さ以上のテキストを生成可能な技術を開発](https://group.ntt/jp/newsrelease/2025/04/24/250424a.html), NTTニュースリリース（2025年4月24日）
+- [深層学習分野の難関国際会議ICLRにNTTから4件採択](https://group.ntt/jp/topics/2025/04/22/iclr2025.html), NTTニュースリリース（2025年4月22日）
 
 #### 寄稿・解説記事
 - 解説「位置符号化の歴史とその役割」, 情報処理学会会誌 2024年12月号（Vol.65 No.12）
