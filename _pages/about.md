@@ -34,7 +34,7 @@ In recent years, I have drawn on signal processing perspectives to investigate t
 "**Probing Rotary Position Embeddings through Frequency Entropy.**"
 ICLR 2026. [[Openreview](https://openreview.net/forum?id=1JZuEDq62N)]
 1. <u>Yui Oka</u>, Itsumi Saito, Kyosuke Nishida, Kuniko Saito.
-"**How Base Frequency Shapes RoPE: An Analytical Study of Frequency-Band Formation.**"
+"**Frequency Bands in RoPE: Base Frequency and Context Length Shape the Interpolation–Extrapolation Trade-off.**"
 ICLR 2026. [[Openreview](https://openreview.net/forum?id=PR1PPxvG9Q)]
 1. <u>Yui Oka</u>, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito.
 "**Wavelet-based Positional Representation for Long Context.**"
