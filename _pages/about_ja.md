@@ -73,11 +73,11 @@ COLING 2020.
 
 #### 国内学会
 1. 中石海, <u>岡佑依</u>, 山本悠士, 西田京介, 横井祥. "**言語モデルの長文処理能力の統計物理学的特徴づけ**". 2026年度人工知能学会全国大会(第40回), 2026. 
-1. <u>岡佑依</u>\*, 花房健太郎\*, 長谷川拓, 西田京介 (\* Equal contribution). "**周波数エントロピーによる位置埋込みの解明**". 言語処理学会第32回年次大会, 2026. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B6-20.pdf)] <span style="color: red;">優秀賞受賞</span>
-1. <u>岡佑依</u>, 斉藤いつみ, 西田京介. "**位置符号化の基底拡大戦略は外挿性能を制限する**". 言語処理学会第32回年次大会, 2026. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C7-20.pdf)] <span style="color: red;">優秀賞受賞</span>
+1. <u>岡佑依</u>\*, 花房健太郎\*, 長谷川拓, 西田京介 (\* Equal contribution). "**周波数エントロピーによる位置埋込みの解明**". 言語処理学会第32回年次大会, 2026. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B6-20.pdf)] <span style="color: red;">優秀賞受賞(13/789 submissions)</span>
+1. <u>岡佑依</u>, 斉藤いつみ, 西田京介. "**位置符号化の基底拡大戦略は外挿性能を制限する**". 言語処理学会第32回年次大会, 2026. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C7-20.pdf)] <span style="color: red;">優秀賞受賞(13/789 submissions)</span>
 1. 辻航平, <u>岡佑依</u>, 西田京介, 坂井優介, 上垣外英剛, 渡辺太郎. "**疑似グラフデータ学習によるLLMのグラフ理解能力の向上**". 言語処理学会第32回年次大会, 2026. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B7-5.pdf)]
-1. <u>岡佑依</u>, 長谷川拓, 西田京介, 齋藤邦子. "**ウェーブレット位置符号化**". 言語処理学会第31回年次大会, 2025. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-4.pdf)]  <span style="color: red;">優秀賞受賞</span>
-1. <u>岡佑依</u>, 田中貴秋, 平尾努, 永田昌明. "**球体表面を利用した位置符号化**". 言語処理学会第29回年次大会, 2023. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P12-4.pdf)]  <span style="color: red;">若手奨励賞受賞</span>
+1. <u>岡佑依</u>, 長谷川拓, 西田京介, 齋藤邦子. "**ウェーブレット位置符号化**". 言語処理学会第31回年次大会, 2025. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P2-4.pdf)]  <span style="color: red;">優秀賞受賞 (14/765 submissions)</span>
+1. <u>岡佑依</u>, 田中貴秋, 平尾努, 永田昌明. "**球体表面を利用した位置符号化**". 言語処理学会第29回年次大会, 2023. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2023/pdf_dir/P12-4.pdf)]  <span style="color: red;">若手奨励賞受賞 (18/406 submissions)</span>
 1. <u>岡佑依</u>, 田中貴秋, 永田昌明. "**英日翻訳のためのPositional Encodingを用いた正則化手法**". 言語処理学会第28回年次大会, 2022. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2022/pdf_dir/PT1-11.pdf)]
 1. <u>岡佑依</u>, 須藤克仁, 中村哲. "**Positional Encodingへの摂動付与による長さ制御を用いた非自己回帰型機械翻訳のための知識蒸留**". 言語処理学会第27回年次大会, 2021. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2021/pdf_dir/P7-7.pdf)]
 1. <u>岡佑依</u>, 帖佐克己, 須藤克仁, 中村哲. "**Positional Encoding出力長制御を用いた英日ニューラル機械翻訳の検討**". 言語処理学会第26回年次大会,2020. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2020/pdf_dir/P1-20.pdf)]
@@ -87,11 +87,11 @@ COLING 2020.
 
 #### 受賞
 - **優秀研究賞**，日本電信電話株式会社 人間情報研究所 所長表彰，“LLMの長文理解に関する実践的かつ理論的な研究への貢献”，2026.
-- **優秀賞** :岡佑依\*, 花房健太郎\*, 長谷川拓, 西田京介 (\* Equal contribution).「周波数エントロピーによる位置埋込みの解明」(言語処理学会 第32回年次大会, 2026年3月)
-- **優秀賞** :岡佑依, 斉藤いつみ, 西田京介「位置符号化の基底拡大戦略は外挿性能を制限する」(言語処理学会 第32回年次大会, 2026年3月)
+- **優秀賞** :岡佑依\*, 花房健太郎\*, 長谷川拓, 西田京介 (\* Equal contribution).「周波数エントロピーによる位置埋込みの解明」(言語処理学会 第32回年次大会, 2026年3月) (13/789 submissions)
+- **優秀賞** :岡佑依, 斉藤いつみ, 西田京介「位置符号化の基底拡大戦略は外挿性能を制限する」(言語処理学会 第32回年次大会, 2026年3月) (13/789 submissions)
 - **優秀研究賞**，日本電信電話株式会社 人間情報研究所 所長表彰，“ウェーブレット位置符号化人関する研究”，2025.
-- **優秀賞** :岡佑依, 長谷川拓, 西田京介, 齋藤邦子「ウェーブレット位置符号化」(言語処理学会 第31回年次大会, 2025年3月)
-- **若手奨励賞** :岡佑依, 田中貴秋, 平尾努, 永田昌明「球体表面を利用した位置符号化」(*主著のみの受賞)(言語処理学会 第29回年次大会, 2023年3月)
+- **優秀賞** :岡佑依, 長谷川拓, 西田京介, 齋藤邦子「ウェーブレット位置符号化」(言語処理学会 第31回年次大会, 2025年3月) (14/765 submissions)
+- **若手奨励賞** :岡佑依, 田中貴秋, 平尾努, 永田昌明「球体表面を利用した位置符号化」(*主著のみの受賞)(言語処理学会 第29回年次大会, 2023年3月) (18/406 submissions)
 - **Best Student Paper** :Ryo Fukuda, Sashi Novitasari, Yui Oka, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura 「Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS」(O-COCOSDA 2021)
   
 #### 講演
