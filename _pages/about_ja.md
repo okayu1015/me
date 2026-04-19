@@ -72,6 +72,7 @@ COLING 2020.
 [[ACL Anthology](https://aclanthology.org/2020.coling-main.319/)]
 
 #### 国内学会
+1. 中石海, <u>岡佑依</u>, 山本悠士, 西田京介, 横井祥. "**言語モデルの長文処理能力の統計物理学的特徴づけ**". 2026年度人工知能学会全国大会(第40回), 2026. 
 1. <u>岡佑依</u>\*, 花房健太郎\*, 長谷川拓, 西田京介 (\* Equal contribution). "**周波数エントロピーによる位置埋込みの解明**". 言語処理学会第32回年次大会, 2026. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B6-20.pdf)] <span style="color: red;">優秀賞受賞</span>
 1. <u>岡佑依</u>, 斉藤いつみ, 西田京介. "**位置符号化の基底拡大戦略は外挿性能を制限する**". 言語処理学会第32回年次大会, 2026. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/C7-20.pdf)] <span style="color: red;">優秀賞受賞</span>
 1. 辻航平, <u>岡佑依</u>, 西田京介, 坂井優介, 上垣外英剛, 渡辺太郎. "**疑似グラフデータ学習によるLLMのグラフ理解能力の向上**". 言語処理学会第32回年次大会, 2026. [[paper](https://www.anlp.jp/proceedings/annual_meeting/2026/pdf_dir/B7-5.pdf)]
