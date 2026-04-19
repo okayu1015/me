@@ -22,7 +22,7 @@ profile:
 🎓 [Google Scholar](https://scholar.google.com/citations?user=2hy8hFAAAAAJ&hl=ja) / 
 📕 [OpenReview](https://openreview.net/profile?id=%7EYui_Oka1) 
 
-日本電信電話株式会社 [人間情報研究所](https://www.rd.ntt/hil/) 所属 / 
+NTT株式会社 [人間情報研究所](https://www.rd.ntt/hil/) 所属 / 
 [東北大学](https://www.nlp.ecei.tohoku.ac.jp/) 博士後期課程2年
 
 自然言語処理、とりわけ大規模言語モデル（LLM）において一般的に用いられている位置符号化および長文コンテキストモデリングの研究に取り組んでいます。
