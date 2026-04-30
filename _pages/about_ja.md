@@ -86,10 +86,10 @@ COLING 2020.
 ---
 
 #### 受賞
-- **優秀研究賞** :日本電信電話株式会社 人間情報研究所 所長表彰，“LLMの長文理解に関する実践的かつ理論的な研究への貢献”，2026.
+- **優秀研究賞** :NTT株式会社 人間情報研究所 所長表彰，“LLMの長文理解に関する実践的かつ理論的な研究への貢献”，2026.
 - **優秀賞** :岡佑依\*, 花房健太郎\*, 長谷川拓, 西田京介 (\* Equal contribution).「周波数エントロピーによる位置埋込みの解明」(言語処理学会 第32回年次大会, 2026年3月) (13/789 submissions)
 - **優秀賞** :岡佑依, 斉藤いつみ, 西田京介「位置符号化の基底拡大戦略は外挿性能を制限する」(言語処理学会 第32回年次大会, 2026年3月) (13/789 submissions)
-- **優秀研究賞** :日本電信電話株式会社 人間情報研究所 所長表彰，“ウェーブレット位置符号化人関する研究”，2025.
+- **優秀研究賞** :NTT株式会社 人間情報研究所 所長表彰，“ウェーブレット位置符号化人関する研究”，2025.
 - **優秀賞** :岡佑依, 長谷川拓, 西田京介, 齋藤邦子「ウェーブレット位置符号化」(言語処理学会 第31回年次大会, 2025年3月) (14/765 submissions)
 - **若手奨励賞** :岡佑依, 田中貴秋, 平尾努, 永田昌明「球体表面を利用した位置符号化」(*主著のみの受賞)(言語処理学会 第29回年次大会, 2023年3月) (18/406 submissions)
 - **Best Student Paper** :Ryo Fukuda, Sashi Novitasari, Yui Oka, Yasumasa Kano, Yuki Yano, Yuka Ko, Hirotaka Tokuyama, Kosuke Doi, Tomoya Yanagita, Sakriani Sakti, Katsuhito Sudoh, Satoshi Nakamura 「Simultaneous Speech-to-speech Translation System with Transformer-based Incremental ASR, MT, and TTS」(O-COCOSDA 2021)
@@ -99,6 +99,7 @@ COLING 2020.
 - [Wavelet-based Positional Representation for Long Context](https://nlp-colloquium-jp.github.io/schedule/2025-04-16_yui-oka/), NLPコロキウム（2025年4月16日）
 
 #### 研究成果に関する公式発表・報道
+- [深層学習分野の難関国際会議ICLRにNTTグループから6件採択](https://group.ntt/jp/topics/2026/04/23/iclr2026.html), NTTニュースリリース（2026年4月23日）
 - [NTTがLLMのコンテキスト長を拡張できる新技術、ウェーブレット関数で位置を表現](https://xtech.nikkei.com/atcl/nxt/mag/rob/18/012600001/00169/), 日経Robotics（2025年5月9日）
 - [LLMの追加学習なしで決められた長さ以上のテキストを生成可能な技術を開発](https://group.ntt/jp/newsrelease/2025/04/24/250424a.html), NTTニュースリリース（2025年4月24日）
 - [深層学習分野の難関国際会議ICLRにNTTから4件採択](https://group.ntt/jp/topics/2025/04/22/iclr2025.html), NTTニュースリリース（2025年4月22日）
