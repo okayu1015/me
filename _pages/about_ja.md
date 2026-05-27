@@ -33,6 +33,7 @@ NTT株式会社 [人間情報研究所](https://www.rd.ntt/hil/) 所属 /
 ---
 
 #### ジャーナル
+1. <u>岡 佑依</u>, 斉藤 いつみ, 西田 京介. "**ウェーブレットに基づく位置符号化と長文外挿.**" 自然言語処理 (採録決定)
 1. <u>岡 佑依</u>, 柳本 大輝, 平尾 努, 西田 京介. "**談話関係ラベル付き接続語認識.**" 自然言語処理, 2025. [[paper](https://www.jstage.jst.go.jp/article/jnlp/32/2/32_633/_article/-char/ja)]
 1. <u>Yui Oka</u>, Katsuhito Sudoh, Satoshi Nakamura. "**Length-constrained Neural Machine Translation using Length Prediction and Perturbation into Length-aware Positional Encoding.**" Journal of Natural Language Processing, 2021. [[paper](https://www.jstage.jst.go.jp/article/jnlp/28/3/28_778/_pdf)]
 
