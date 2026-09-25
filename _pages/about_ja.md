@@ -23,7 +23,6 @@ profile:
 📕 [OpenReview](https://openreview.net/profile?id=%7EYui_Oka1) 
 
 NTT株式会社 [人間情報研究所](https://www.rd.ntt/hil/) 所属 / 
-[東北大学](https://www.nlp.ecei.tohoku.ac.jp/) 博士後期課程2年 / 
 NAIST [自然言語処理学研究室](https://nlp.naist.jp/ja/) 客員助教
 
 ---
@@ -34,7 +33,7 @@ NAIST [自然言語処理学研究室](https://nlp.naist.jp/ja/) 客員助教
 1. <u>Yui Oka</u>, Katsuhito Sudoh, Satoshi Nakamura. "**Length-constrained Neural Machine Translation using Length Prediction and Perturbation into Length-aware Positional Encoding.**" Journal of Natural Language Processing, 2021. [[paper](https://www.jstage.jst.go.jp/article/jnlp/28/3/28_778/_pdf)]
 
 #### 国際会議/ワークショップ
-1. <u>Yui Oka</u>\*, Kyosuke Nishida, Sho Yokoi. 
+1. <u>Yui Oka</u>\, Kyosuke Nishida, Sho Yokoi. 
 "**RoPE Is Not a Proper Relative Position Embedding.**"
 NeurIPS 2026 Position Track. 
 1. <u>Yui Oka</u>\*, Kentaro Hanafusa\*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (\* Equal contribution). 
@@ -113,7 +112,8 @@ COLING 2020.
 - 2021年–2023年, NLP若手の会運営委員
 
 #### 略歴
-- 2024年10月–現在 東北大学大学院 情報科学研究科 博士後期課程  
 - 2024年 7月–現在 NTT株式会社 人間情報研究所
+- 2026年 8月–現在 奈良先端科学技術大学院大学 客員助教
+- 2024年10月–2026年9月 東北大学大学院 情報科学研究科 博士後期課程(早期修了)
 - 2021年 4月–2024年6月 日本電信電話株式会社 コミュニケーション科学基礎研究所
 - 2019年 4月–2021年3月 奈良先端科学技術大学院大学 修士（工学）
