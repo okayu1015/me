@@ -34,6 +34,9 @@ NAIST [自然言語処理学研究室](https://nlp.naist.jp/ja/) 客員助教
 1. <u>Yui Oka</u>, Katsuhito Sudoh, Satoshi Nakamura. "**Length-constrained Neural Machine Translation using Length Prediction and Perturbation into Length-aware Positional Encoding.**" Journal of Natural Language Processing, 2021. [[paper](https://www.jstage.jst.go.jp/article/jnlp/28/3/28_778/_pdf)]
 
 #### 国際会議/ワークショップ
+1. <u>Yui Oka</u>\*, Kyosuke Nishida, Sho Yokoi. 
+"**RoPE Is Not a Proper Relative Position Embedding.**"
+NeurIPS 2026 Position Track. 
 1. <u>Yui Oka</u>\*, Kentaro Hanafusa\*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (\* Equal contribution). 
 "**Probing Rotary Position Embeddings through Frequency Entropy.**"
 ICLR 2026. [[Openreview](https://openreview.net/forum?id=1JZuEDq62N)]
