@@ -30,6 +30,9 @@ In recent years, I have drawn on signal processing perspectives to investigate t
 ---
 
 #### Publications
+1. <u>Yui Oka</u>\*, Kyosuke Nishida, Sho Yokoi. 
+"**RoPE Is Not a Proper Relative Position Embedding.**"
+NeurIPS 2026 Position Track. 
 1. <u>Yui Oka</u>\*, Kentaro Hanafusa\*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (\* Equal contribution).
 "**Probing Rotary Position Embeddings through Frequency Entropy.**"
 ICLR 2026. [[Openreview](https://openreview.net/forum?id=1JZuEDq62N)]
