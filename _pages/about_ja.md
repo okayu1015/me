@@ -28,12 +28,12 @@ NAIST [自然言語処理学研究室](https://nlp.naist.jp/ja/) 客員助教
 ---
 
 #### ジャーナル
-1. <u>岡 佑依</u>, 斉藤 いつみ, 西田 京介. "**ウェーブレットに基づく位置符号化と長文外挿.**" 自然言語処理 (採録決定)
+1. <u>岡 佑依</u>, 斉藤 いつみ, 西田 京介. "**ウェーブレットに基づく位置符号化と長文外挿.**" 自然言語処理, 2026. [[paper](https://www.jstage.jst.go.jp/article/jnlp/33/3/33_1333/_article/-char/ja)]
 1. <u>岡 佑依</u>, 柳本 大輝, 平尾 努, 西田 京介. "**談話関係ラベル付き接続語認識.**" 自然言語処理, 2025. [[paper](https://www.jstage.jst.go.jp/article/jnlp/32/2/32_633/_article/-char/ja)]
 1. <u>Yui Oka</u>, Katsuhito Sudoh, Satoshi Nakamura. "**Length-constrained Neural Machine Translation using Length Prediction and Perturbation into Length-aware Positional Encoding.**" Journal of Natural Language Processing, 2021. [[paper](https://www.jstage.jst.go.jp/article/jnlp/28/3/28_778/_pdf)]
 
 #### 国際会議/ワークショップ
-1. <u>Yui Oka</u>\, Kyosuke Nishida, Sho Yokoi. 
+1. <u>Yui Oka</u>, Kyosuke Nishida, Sho Yokoi. 
 "**RoPE Is Not a Proper Relative Position Embedding.**"
 NeurIPS 2026 Position Track. 
 1. <u>Yui Oka</u>\*, Kentaro Hanafusa\*, Taku Hasegawa, Kyosuke Nishida, Kuniko Saito (\* Equal contribution). 
